@@ -20,3 +20,4 @@ User_email.
 
 
 Además de eso se agregaron  los campos para registrarse y ingresar con los parámetros de caracteres,con encriptación de contraseña
+![Imagen de WhatsApp 2023-05-07 a las 22 10 09](https://user-images.githubusercontent.com/128415141/236727693-b0daf578-9bf7-4214-8074-b5439cc0dd55.jpg)
